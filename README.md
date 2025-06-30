@@ -17,8 +17,9 @@ The map is intended as a blank, lightweight base for developers and mappers who 
 
 ## 🛠 Tools Used
 
-- [CodeWalker](https://discord.gg/codewalker)  
+- [CodeWalker](https://github.com/dexyfex/CodeWalker)  
 - [Blender](https://www.blender.org)  
+- [Sollumz](https://github.com/Sollumz/Sollumz)  
 
 ---
 
